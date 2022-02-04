@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818343162124",
+    "project_id": "nako-music",
+    "storage_bucket": "nako-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818343162124:android:281f72885f8a2f27e3d929",
+        "android_client_info": {
+          "package_name": "com.music.music_nako"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818343162124-cgb3av4cupfnsvugqq4u1d4fo65lh3i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNeBEpqvjZ-Zv2enPqmo6VxYDbi6fPvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818343162124-cgb3av4cupfnsvugqq4u1d4fo65lh3i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -26,14 +26,14 @@ dependencies:
   #STORAGE & PERMISSION
   permission_handler: ^8.3.0
   flutter_downloader: ^1.7.1
-  path_provider: ^2.0.8
+  path_provider: 2.0.8
   provider: ^6.0.1
 
   #CONNECTIVITY
   http: ^0.13.4
   share: ^2.0.4
 
-  url_launcher: 6.0.18
+  url_launcher: 6.0.17
   store_redirect: ^2.0.0
 
   #Firebase
